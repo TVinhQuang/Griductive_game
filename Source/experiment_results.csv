@@ -1,0 +1,5 @@
+puzzle,primary_variables,auxiliary_variables,initial_cnf_clauses,sat_calls,decisions,propagations,backtracks,deduction_steps,runtime_ms
+Random Case 3x3,9,0,5,63,132,308,0,7,0.955
+Random Case 3x4,12,0,4,120,444,735,0,10,2.407
+Random Case 4x5,20,0,4,360,3128,3202,0,18,16.841
+Random Case 5x5,25,0,7,575,6879,6171,0,23,45.094
